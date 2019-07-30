@@ -58,25 +58,25 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "cspensky@cs.ucsb.edu"
 phone = "740 632 6257"
 address = "Santa Barbara, California, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
- # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
- # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/chadochospensky"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:cspensky?call"},
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+#  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link="https://www.linkedin.com/in/chad-spensky-5132a141/"},
   ]
 
 # Display a map.
@@ -146,8 +146,8 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
+  post_view = 3
+  publication_view = 3
   talk_view = 2
 
 # Comments.
