@@ -11,7 +11,7 @@ selected = true
 title = "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary"
 url_pdf = "pdfs/ndss2019_04A-1_Song_paper.pdf"
 url_slides = "slides/ndss2019_04A-1_Song_slides.pdf"
-
+url_video = "https://www.youtube.com/watch?v=GDf4IIEhl0Y&list=PLfUWWM-POgQvLhcT_z_rw4_2RvJSXpa7k&index=2&t=2s"
 [[url_custom]]
 name = "BibTeX"
 url = "bibs/periscope.bib"
