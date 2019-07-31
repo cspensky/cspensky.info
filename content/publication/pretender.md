@@ -11,4 +11,5 @@ publication_short = "*RAID 2019*"
 selected = true
 title = "Toward the Analysis of Embedded Firmware through Automated Re-hosting"
 
+url_pdf = "pdfs/pretender.pdf"
 +++
