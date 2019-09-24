@@ -10,8 +10,8 @@ abstract: I argue various game-theortic points that stem from misaligned incenti
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-03-22T18:00:00-08:00
-date_end: 2019-03-22T20:00:00-08:00
+date: 2019-03-22T18:00:00-03:30
+date_end: 2019-03-22T20:00:00-04:30
 all_day: false
 
 # Schedule page publish date (NOT talk date).

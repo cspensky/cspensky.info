@@ -12,7 +12,7 @@ abstract: I presented my experience as a member of the Shellphish CTF team at th
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-08-9T18:00:00-08:00
 date_end: 2019-08-11T20:00:00-08:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-07-29T20:22:49-04:00
