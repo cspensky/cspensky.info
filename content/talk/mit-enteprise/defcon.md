@@ -1,17 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Defcon 27"
-event: IBM Security Presentation
+title: "Defcon CTF Finals"
+event: Defcon 27 CTF Finals
 event_url: https://www.oooverflow.io/dc-ctf-2019-finals/
-location: 
-summary: Defcon 27 CTF Recap
-abstract:
+location: Las Vegas, NV
+summary: Defcon 27 CTF Finals Recap
+abstract: I presented my experience as a member of the Shellphish CTF team at the Defcon CTF finals.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-08-16T18:00:00-08:00
-date_end: 2019-08-16T20:00:00-08:00
+date: 2019-08-9T18:00:00-08:00
+date_end: 2019-08-11T20:00:00-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
