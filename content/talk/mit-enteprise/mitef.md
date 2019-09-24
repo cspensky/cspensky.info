@@ -4,9 +4,9 @@
 title: "MIT Enteprise Forum"
 event: MIT Enteprise Forum
 event_url: https://mitcentralcoast.org/
-location:
+location: Santa Barbara, CA
 summary: Identity and Authentication in the Digital Age
-abstract:
+abstract: I presented my take on authentication after over a decade of research.  Concluding that what we ultimately need in the world is a single multi-faceted authenitcaiton device, which can provide more security and less burden.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
