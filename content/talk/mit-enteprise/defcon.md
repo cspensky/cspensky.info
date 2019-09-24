@@ -3,8 +3,8 @@
 
 title: "Defcon 27"
 event: IBM Security Presentation
-event_url: 
-location:
+event_url: https://www.oooverflow.io/dc-ctf-2019-finals/
+location: 
 summary: Defcon 27: CTF Recap
 abstract:
 
