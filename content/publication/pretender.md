@@ -12,4 +12,10 @@ selected = true
 title = "Toward the Analysis of Embedded Firmware through Automated Re-hosting"
 
 url_pdf = "pdfs/pretender.pdf"
+url_code = "https://github.com/ucsb-seclab/pretender"
+url_slides = "slides/pretender_raid_2019.pdf"
+
+[[url_custom]]
+name = "BibTeX"
+url = "bibs/pretender.bib"
 +++
