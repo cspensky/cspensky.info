@@ -15,8 +15,6 @@ url_video = "https://youtu.be/UHyDMiJEEz8"
 url_slides = "slides/dr_checker_usenix2017.pdf"
 
 
-[[url_custom]]
-name = "BibTeX"
-url = "bibs/drchecker.bib"
+url_custom = [{name = "BibTeX", url = "bibs/drchecker.bib"}]
 
 +++
