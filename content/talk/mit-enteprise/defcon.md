@@ -5,7 +5,7 @@ title: "Defcon 27"
 event: IBM Security Presentation
 event_url: https://www.oooverflow.io/dc-ctf-2019-finals/
 location: 
-summary: Defcon 27: CTF Recap
+summary: Defcon 27 CTF Recap
 abstract:
 
 # Talk start and end times.
@@ -41,7 +41,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: /slides/defcon_27_shortman.pdf
-
 url_code:
 url_pdf:
 url_video:
