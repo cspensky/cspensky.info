@@ -12,6 +12,7 @@ title = "BOOMERANG: Exploiting the Semantic Gap in Trusted Execution Environment
 url_code = "https://github.com/ucsb-seclab/boomerang"
 url_pdf = "pdfs/ndss17-final227.pdf"
 url_video = "https://www.youtube.com/watch?v=_4hMO36NPSg"
+url_slides = "slides/ndss2017-07_3_machiry_slides.pdf"
 
 [[url_custom]]
 name = "BibTeX"
