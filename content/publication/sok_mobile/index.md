@@ -13,7 +13,7 @@ url_pdf = "pdfs/pets2016_sok_spensky.pdf"
 url_video = "https://www.youtube.com/watch?v=5wseadQw0as"
 url_code = ""
 url_dataset = ""
-url_slides = ""
+url_slides = "slides/sok_mobile_privacy.pdf"
 
 [[url_custom]]
 name = "BibTeX"
