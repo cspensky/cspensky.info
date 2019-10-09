@@ -3,7 +3,7 @@
 
 title: "New Venture Competition Info Session"
 event: New Venture Competition
-event_url: https://www.eventbrite.com/e/2020-new-venture-competition-info-session-1-tickets-72731825849?aff=erelexpmlthttps://mitcentralcoast.org/
+event_url: https://www.eventbrite.com/e/2020-new-venture-competition-info-session-1-tickets-72731825849?aff=erelexpmlt
 location: Santa Barbara, CA
 summary: Motiviating new NVC entrants by sharing Allthenticate's story
 abstract: I am part of the alumni panel to help answer questions and movtivate New Venture Competition entrants for the 2020 NVC Competition.
