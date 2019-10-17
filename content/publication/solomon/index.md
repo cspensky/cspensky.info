@@ -11,5 +11,5 @@ publication_short = "*Oakland 2020*"
 selected = true
 title = "KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware"
 
-url_pdf = ""
+#url_pdf = ""
 +++
