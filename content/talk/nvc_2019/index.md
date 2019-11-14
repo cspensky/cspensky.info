@@ -21,7 +21,7 @@ authors: [Chad Spensky]
 tags: [Allthenticate, NVC]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -29,7 +29,7 @@ featured: true
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
