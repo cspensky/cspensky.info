@@ -6,7 +6,7 @@ date = "2017-08-01"
 title = "DR. CHECKER"
 
 # Project summary to display on homepage.
-summary = "Static analysis for tool for detecting bugs in Linux kernel drives on Android devices"
+summary = "Static analysis for tool for detecting bugs in Linux kernel drives on Android devices."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

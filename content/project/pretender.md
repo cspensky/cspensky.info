@@ -6,7 +6,7 @@ date = "2019-11-01"
 title = "Pretender"
 
 # Project summary to display on homepage.
-summary = "Framework for re-hosting embedded systems in emulated environments"
+summary = "Framework for re-hosting embedded systems in emulated environments."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
