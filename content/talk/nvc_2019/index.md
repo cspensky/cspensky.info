@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New Venture Competition finals"
+title: "New Venture Competition Finals"
 event: New Venture Competition
 event_url: 
 location: Santa Barbara, CA
