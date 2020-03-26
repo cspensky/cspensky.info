@@ -8,11 +8,10 @@ publication_types = ["1"]
 publication = "Proceedings of the 8th IEEE Conference on Communications and Network Security"
 publication_short = "*CNS 2020*"
 selected = true
-title = "TRUST.IO: Protecting Physical Interfaces on Cyber-physical Systems}"
+title = "TRUST.IO: Protecting Physical Interfaces on Cyber-physical Systems"
 url_pdf = ""
 url_video = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-
 +++
