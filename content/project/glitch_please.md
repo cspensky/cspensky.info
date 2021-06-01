@@ -6,7 +6,7 @@ date = "2021-06-01"
 title = "Glitch Resistor"
 
 # Project summary to display on homepage.
-summary = "Framework for automatically create glitch resistant code for embedded systems"
+summary = "Framework for automatically creating glitch resistant code for embedded systems"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
