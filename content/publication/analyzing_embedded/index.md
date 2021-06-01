@@ -1,0 +1,19 @@
++++
+abstract = "Embedded systems (i.e., single-purpose computers with tightly-coupled software and hardware) are now pervasive throughout in our increasingly digitized world. Due to the rapid growth of the embedded systems industry and the commercial pressure to implement new features, most of these systems are built using insecure hardware and have numerous latent software vulnerabilities. Unfortunately, the diversity of physical hardware and software implementations on these various systems along with their tight coupling between software and hardware have rendered most of our existing automated security analysis techniques ineffective. Attackers currently have the upper hand, as they need only discover a single vulnerability, whereas defenders must manually identify, and fix, all of the existing vulnerabilities. To make matters worse, many of these vulnerable embedded systems can interact with the physical world and, if compromised, could cause serious damage (e.g., a public utility) or even death (e.g., a medical device). To rectify this calamitous situation that we have created, we must be able to 1) identify and fix problems with the existing systems that are already deployed and 2) create future systems that are fundamentally secure, by design. Embedded systems are more difficult to analyze than traditional computers because the hardware platforms that they run on are far more diverse, have strict hardware dependencies, are equipped peripherals that differ wildly between systems, and their execution typically depends on external phenomena that materialize as hardware interrupts. The depth of the analysis can be improved by developing novel hardware-based introspection techniques, which would provide analysts with the ability to observe the internal state of the real embedded system in real-world scenarios. The scale of the analysis can also be improved by decoupling the firmware from the hardware through emulation techniques, which would permit analysts to parallelize their analyses across numerous emulated systems, without the need for hardware, and also experiment with the embedded system in a zero-risk virtual environment. I developed a novel hardware-based introspection technique for embedded systems that provides real-time, high-level insights into modifications made to both volatile and non-volatile memory using a Field-Programmable Gate Array (FPGA) implementation and novel semantic-gap reconstruction techniques. I also developed an approach to support the decoupling of firmware from its hardware that can use either hardware- or software-based instrumentation of the system to record the hardware interactions on the real system and then convert these recordings into generalized, composable ω-automata that can be used in place of the hardware for emulation.  Embedded systems are also difficult to protect against hardware-based attacks, especially glitching. Ideally, firmware could be protected against these attacks using software-only techniques that could be deployed to the billions of existing systems to protect them from physical attacks, without physically replacing them. I developed an approach that permits embedded system developers to automatically inject various software-based glitching defenses into their code at compile-time, producing glitch-resistant firmware without the need for any code annotations or modifications to the embedded system’s hardware."
+authors = ["**Chad Spensky**"]
+date = "2020-09-29"
+image_preview = ""
+math = false
+publication_types = ["7"]
+publication = "University of California, Santa Barbara"
+publication_short = "*Ph.D. Thesis 2020*"
+selected = true
+title = "Analyzing and Securing Embedded Systems"
+url_pdf = "pdfs/spensky_phd.pdf"
+url_video = ""
+url_code = ""
+url_dataset = ""
+url_slides = ""
+
+
++++
